@@ -1,1 +1,1 @@
-README.md file for holberton-system_engineering-devops repository.
+README.MD file for the main repository

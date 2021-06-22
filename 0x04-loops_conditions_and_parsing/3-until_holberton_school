@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Display Holberton School 10 times usin While
+
+INDEX=0
+
+until [ $INDEX -eq 10 ]
+do
+	echo "Holberton School"
+	(( count++))
+done
+

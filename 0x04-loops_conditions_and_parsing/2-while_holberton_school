@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# display Holberton School 10 times using While
+
+INDEX=0
+while [ $INDEX -lt 10 ]
+do
+	echo "Holberton School"
+	let INDEX=INDEX+1
+done

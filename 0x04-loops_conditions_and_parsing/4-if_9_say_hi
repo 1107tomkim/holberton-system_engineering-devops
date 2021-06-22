@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# Display Holberton School 10 times but on the 9th say Hi after
+
+COUNT=0
+
+while [ $COUNT -lt 10 ]
+do
+	if [ $COUNT -eq 9 ]
+	then
+		echo "Hi"
+	fi
+		echo "Holberton School"
+		(( COUNT++ ))
+      done

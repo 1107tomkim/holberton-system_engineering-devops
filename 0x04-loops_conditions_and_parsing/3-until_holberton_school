@@ -6,6 +6,6 @@ INDEX=0
 until [ $INDEX -eq 10 ]
 do
 	echo "Holberton School"
-	(( count++))
+	(( INDEX++))
 done
 

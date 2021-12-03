@@ -1,0 +1,6 @@
+host 1107tomkim
+		HostName 35.229.113.168
+		User ubuntu
+		PasswordAuthentication No
+		StrictHostKeyChecking No
+		IdentityFile ~/.ssh/school
